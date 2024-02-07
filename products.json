@@ -1,0 +1,184 @@
+[
+  {
+    "productName": "Classic Cotton T-Shirt",
+    "price": 19.99,
+    "img": "https://i.ibb.co/t4tkj3X/view-hawaiian-shirt-with-pants-sneakers.jpg",
+    "description": "A classic and comfortable cotton t-shirt for casual wear.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["White", "Black", "Blue", "Red"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Slim Fit Denim Jeans",
+    "price": 34.99,
+    "img": "https://i.ibb.co/XkpF2Pf/smiling-girl-is-showing-perfect-gesture-by-holding-credit-cards-clothes-background.jpg",
+    "description": "Slim fit denim jeans for a stylish and modern look.",
+    "size": ["28", "30", "32", "34"],
+    "colors": ["Denim Blue", "Black", "Gray"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Sporty Hooded Sweatshirt",
+    "price": 29.99,
+    "img": "https://i.ibb.co/MBQ8TwK/online-fashion-shopping-collage-1.jpg",
+    "description": "A comfortable and sporty hooded sweatshirt for chilly days.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Gray", "Navy Blue", "Green"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Casual V-Neck Sweater",
+    "price": 39.99,
+    "img": "https://i.ibb.co/TPhpQqF/flat-lay-woman-style-accessories-red-knitted-sweater-checkered-shirt-denim-jeans-black-leather-boots.jpg",
+    "description": "A stylish and cozy V-neck sweater for a casual look.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Beige", "Charcoal", "Burgundy"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Chino Pants",
+    "price": 29.99,
+    "img": "https://i.ibb.co/RHnPLyF/woman-with-jumper-near-clothes-rack.jpg",
+    "description": "Classic chino pants for a polished and versatile style.",
+    "size": ["30", "32", "34", "36"],
+    "colors": ["Khaki", "Navy Blue", "Olive"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Striped Polo Shirt",
+    "price": 24.99,
+    "img": "https://i.ibb.co/c8NFNjz/stylish-urban-set-jeans-knee-socks-bright-sports-summer-outfit-beanie-headphones.jpg",
+    "description": "A striped polo shirt for a smart and casual look.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Blue/White", "Red/Black", "Green/Yellow"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Leather Jacket",
+    "price": 79.99,
+    "img": "https://i.ibb.co/M9VP3N9/spring-wardrobe-switch-high-angle.jpg",
+    "description": "A classic leather jacket for a timeless and edgy style.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Brown", "Dark Gray"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Printed Graphic T-Shirt",
+    "price": 22.99,
+    "img": "https://i.ibb.co/rf7026P/front-view-artist-holding-t-shirt.jpg",
+    "description": "A trendy graphic t-shirt with unique prints for a bold statement.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["White", "Gray", "Black"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Cargo Shorts",
+    "price": 27.99,
+    "img": "https://i.ibb.co/S0yK8vx/bright-fashion-look-wooden-background-close-up.jpg",
+    "description": "Comfortable cargo shorts with ample pocket space for a casual day out.",
+    "size": ["30", "32", "34", "36"],
+    "colors": ["Khaki", "Camouflage", "Navy Blue"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Crew Neck Sweater",
+    "price": 32.99,
+    "img": "https://i.ibb.co/JRR05NS/overhead-view-travelling-bag-with-female-outfits-flowers.jpg",
+    "description": "A versatile crew neck sweater for a warm and stylish winter.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Burgundy", "Navy Blue", "Gray"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Casual Jogger Pants",
+    "price": 26.99,
+    "img": "https://i.ibb.co/jyyQG37/woman-s-accessories-red-tulips-table.jpg",
+    "description": "Comfortable and trendy jogger pants for a laid-back style.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Gray", "Olive"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Hooded Windbreaker Jacket",
+    "price": 44.99,
+    "img": "https://i.ibb.co/6Pm7TwC/arrangement-different-traveling-elements.jpg",
+    "description": "A lightweight and stylish windbreaker jacket for unpredictable weather.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Navy Blue", "Red", "Black"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Floral Print Dress",
+    "price": 49.99,
+    "img": "https://i.ibb.co/NtLpXn7/jacket-smart-phone-sunglasses-high-heeled-shoes.jpg",
+    "description": "A charming floral print dress for a feminine and elegant look.",
+    "size": ["XS", "S", "M", "L"],
+    "colors": ["White/Floral", "Blue/Floral", "Pink/Floral"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Formal Slim Fit Shirt",
+    "price": 37.99,
+    "img": "https://i.ibb.co/HTR7xC0/lifestyle-concept-with-travel-note-film-photography-accessories-with-casual-outfits-flat-lay-style-c.jpg",
+    "description": "A crisp and formal slim fit shirt for professional occasions.",
+    "size": ["15", "15.5", "16", "16.5"],
+    "colors": ["White", "Light Blue", "Striped"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Ruffled Midi Skirt",
+    "price": 29.99,
+    "img": "https://i.ibb.co/kX1n0ww/travel-accessory-concept.jpg",
+    "description": "A stylish ruffled midi skirt for a chic and trendy appearance.",
+    "size": ["XS", "S", "M", "L"],
+    "colors": ["Black", "Navy Blue", "Burgundy"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Suede Ankle Boots",
+    "price": 59.99,
+    "img": "https://i.ibb.co/TLTYcZt/women-s-summer-clothing-walking-set-brown-tshirt-cotton-green-shorts-suede-sandals-leather-cross-bod.jpg",
+    "description": "Elegant suede ankle boots to elevate your footwear collection.",
+    "size": ["6", "7", "8", "9"],
+    "colors": ["Tan", "Black", "Brown"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Quilted Puffer Jacket",
+    "price": 49.99,
+    "img": "https://i.ibb.co/w0CJ4qr/focused-woman-talking-cell-while-shopping-fashion-store-applying-dress-herself-looking-mirror-medium.jpg",
+    "description": "A warm and stylish quilted puffer jacket for winter adventures.",
+    "size": ["S", "M", "L", "XL"],
+    "colors": ["Gray", "Burgundy", "Navy Blue"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Bohemian Maxi Dress",
+    "price": 54.99,
+    "img": "https://i.ibb.co/n0F9F4X/cute-tailor-showing-her-fabric-phone.jpg",
+    "description": "A bohemian-inspired maxi dress for a relaxed and free-spirited vibe.",
+    "size": ["XS", "S", "M", "L"],
+    "colors": ["Orange", "Teal", "Printed"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Trendy High-Top Sneakers",
+    "price": 39.99,
+    "img": "https://i.ibb.co/ggW9tKg/women-s-shirt-blue-jeans-brown-purse-black-handbag-multi-colored-pastel-background-fashion-backgroun.jpg",
+    "description": "Stylish high-top sneakers for a trendy and urban look.",
+    "size": ["6", "7", "8", "9"],
+    "colors": ["White", "Black", "Red"],
+    "freeDeliveryReturns": true
+  },
+  {
+    "productName": "Pleated Culottes",
+    "price": 31.99,
+    "img": "https://i.ibb.co/dDnXNQs/vintage-still-life-with-roses-ballet-shoes.jpg",
+    "description": "Elegant pleated culottes for a sophisticated and comfortable style.",
+    "size": ["XS", "S", "M", "L"],
+    "colors": ["Navy Blue", "Gray", "Black"],
+    "freeDeliveryReturns": true
+  }
+]
+
+  
